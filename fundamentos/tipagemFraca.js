@@ -1,10 +1,14 @@
-let qualquer = 'legal'
+let qualquer  = 'legal'
+console.log(qualquer)
 console.log(typeof qualquer)
 
-qualquer = 2.235
-
+qualquer = 3.245666
+console.log(qualquer)
 console.log(typeof qualquer)
+
+
+// Evitar nome generico e siglas
 
 let valor = ''
 let numero = 1
-let pqp  = false  
+let pqp = false /// Produto Quimico Perigo..... kkkk
